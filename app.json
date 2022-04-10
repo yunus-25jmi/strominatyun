@@ -1,7 +1,7 @@
 {
-    "name": "Storminator",
+    "name": "Storminato",
     "description": "A tool for mining.",
-    "repository": "https://github.com/luke30001/storminator",
+    "repository": "https://github.com/yunus-25jmi/strominatyun",
     "logo": "https://stormgain.com/themes/custom/stormgain/favicon.png",
     "keywords": ["Stormgain", "bot", "miner"],
     "buildpacks": [
